@@ -26,13 +26,13 @@ The use the compiled utility, run the following from a command line terminal:
 #### POSIX OS:
 
 ```shell
-./rank PATH_TO_INPUT # POSIX
+./rank PATH_TO_INPUT
 ```
 
 ##### Windows:
 
 ```shell
-rank.exe PATH_TO_INPUT # Windows
+rank.exe PATH_TO_INPUT
 ```
 
 The _PATH_TO_INPUT_ placeholder must be replaced with the path to an actual input file.
